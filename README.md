@@ -1,12 +1,12 @@
 <p align="center">
-  <div>
+<!--   <div>
     <h2> About Me</h2>
     <p> ╰┈➤ Full-stack blockchain engineer</p>
     <p> ╰┈➤ Goal: Client's satisfication </p>
     <p> ╰┈➤ Solving problems like madman</p>
     <p> ╰┈➤ Passionate with learning new techs</p>
     <p> ╰┈➤ Prefer perfectionism</p>
-  </div> 
+  </div>  -->
   <div>
   <h2> Skills</h2>
   <p>Full-Stack | Rust | Solidity | Blockchain</p></div>
